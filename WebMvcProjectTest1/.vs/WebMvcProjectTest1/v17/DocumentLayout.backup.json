@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|c:\\users\\lenovo\\source\\repos\\webmvcprojecttest1\\webmvcprojecttest1\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7095BE-76C2-4C77-89A8-9FB5D26A8DA7}|WebMvcProjectTest1\\WebMvcProjectTest1.csproj|solutionrelative:webmvcprojecttest1\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Views\\Blog\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Edit.cshtml",
+              "RelativeToolTip": "WebMvcProjectTest1\\Views\\Blog\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T12:08:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Views\\Blog\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Details.cshtml",
+              "RelativeToolTip": "WebMvcProjectTest1\\Views\\Blog\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T12:07:25.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "WebMvcProjectTest1\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T12:05:57.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMvcProjectTest1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:47:56.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Program.cs",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Program.cs",
+              "RelativeToolTip": "WebMvcProjectTest1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:47:35.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "WebMvcProjectTest1\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:42:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Views\\Blog\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Views\\Blog\\Delete.cshtml",
+              "RelativeToolTip": "WebMvcProjectTest1\\Views\\Blog\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:38:32.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "WebMvcProjectTest1\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebMvcProjectTest1\\WebMvcProjectTest1\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "WebMvcProjectTest1\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:54:13.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
